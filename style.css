@@ -1,12 +1,7 @@
-html {
-    height: 100%;
-}
-
 body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: cyan;
-    height: inherit;
+    background-color: cyan;    
     margin: 0;
 }
