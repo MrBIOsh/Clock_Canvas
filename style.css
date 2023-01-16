@@ -4,4 +4,19 @@ body {
     align-items: center;
     background-color: cyan;    
     margin: 0;
+    gap: 20px;
+    flex-direction: column;
 }
+
+#time {
+	color:rgb(0, 0, 0);
+	/*background-color:black;*/
+    font-size: 80px;
+    display:flex;
+	justify-content:center;
+}
+
+/*
+<p id="time"></p>    
+<canvas class="clock" id="clock" width="600" height="600"></canvas>
+*/
